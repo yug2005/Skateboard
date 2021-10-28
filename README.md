@@ -1,5 +1,7 @@
 # Skateboard
 
+![preview image](https://github.com/yug2005/Skateboard/blob/master/Project%20Images/Skateboard%20Project%20Image%2001.png)
+
 ## Summary
 
 This blender project contains a realistic 3D modelling of a skateboard. The model has a total of 41,418 triangles. All components are UV mapped to allow for texture and material creation that are properly orientated on top of the mesh. 
